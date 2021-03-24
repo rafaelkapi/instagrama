@@ -1,7 +1,7 @@
 
 
 
-# Instagrama
+# Instagrama 🍀
 
 ![Preview-Screens](https://raw.githubusercontent.com/rafaelkapi/instagrama/main/img-scrsht.png)
 
