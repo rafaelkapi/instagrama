@@ -3,7 +3,7 @@
 
 # Instagrama
 
-![Preview-Screens](https://raw.githubusercontent.com/rafaelkapi/instagrama/main/img-instagrama.png)
+![Preview-Screens](https://raw.githubusercontent.com/rafaelkapi/instagrama/main/img-scrsht.png)
 
 
 ## About this Project
