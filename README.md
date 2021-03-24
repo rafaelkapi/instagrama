@@ -1,9 +1,9 @@
 
 
 
-#Instagrama
+# Instagrama
 
-
+![Preview-Screens](https://raw.githubusercontent.com/rafaelkapi/instagrama/main/img-instagrama.png)
 
 
 ## About this Project
